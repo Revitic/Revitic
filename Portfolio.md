@@ -9,8 +9,8 @@ I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of
 <details closed>
 <summary> Practice Games </summary>
 <br>
-<details closed>
-<summary> - Practice Games </summary>
+- <details closed>
+<summary> Practice Games </summary>
 <br>
 
 </details> 
