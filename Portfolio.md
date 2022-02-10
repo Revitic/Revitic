@@ -16,7 +16,7 @@ I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of
 + <details>
     <summary>Number Game</summary>
         
-        ![https://user-images.githubusercontent.com/73036096/153433231-3765ff79-c17c-45bc-9ac2-962eb499bb88.mp4](my_video.mov)
+        ![https://user-images.githubusercontent.com/73036096/153433231-3765ff79-c17c-45bc-9ac2-962eb499bb88.mp4](my_video.mp4)
 
    </details>
 </details>
