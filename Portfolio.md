@@ -8,11 +8,11 @@ I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of
 
 Note: Some of the showcases below are simply **practice games**, meaning some elements of the games shown lack quality due to them just being for practice and not planned to be published.
 
-<details>
-    <summary>Programming</summary>       
-    +<details>
-    <summary>Number Game</summary>
-        https://streamable.com/6nk2my
+    <details>
+        <summary>
+            Systems
+        </summary>
+
+        **Over-The-Shoulder (OTS) Gun System**
+        https://streamable.com/hppdtv
     </details>
-</details>
-</details>
