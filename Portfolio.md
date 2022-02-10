@@ -4,4 +4,4 @@ Hi there! I'm known as [Revitic](https://www.roblox.com/users/151869111/profile)
 
 ![ProgrammingBanner](https://user-images.githubusercontent.com/73036096/153429160-b6c77ae3-1c01-41fe-91d6-cadfa498d867.png)
 
-I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of Github, [Rojo](https://github.com/rojo-rbx/rojo), and Visual Studio Code. I've worked on many projects in the past, including some of my own. I'm also familiar with OOP on Roblox (Object Oriented Programming).
+I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of Github, [Rojo](https://github.com/rojo-rbx/rojo), and Visual Studio Code. I've worked on many projects in the past, including some of my own. I'm also familiar with OOP on Roblox (Object Oriented Programming). I've created multiple frameworks to speed up my development process on the projects I own.
