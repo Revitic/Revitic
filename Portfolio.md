@@ -8,7 +8,7 @@ I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of
 
 <details>
 <summary>Practice Games</summary>
-- <details>
-<summary>Number Game</summary>
-</details>
++ <details>
+    <summary>Number Game</summary>
+   </details>
 </details>
