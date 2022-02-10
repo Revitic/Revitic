@@ -14,9 +14,9 @@ Note: Some of the showcases below are simply **practice games**, meaning some el
 + <details>
     <summary>Number Game</summary>
         https://streamable.com/6nk2my
-       <summary>Over-The-Shoulder Gun System</summary>
+</details>
+        <summary>Over-The-Shoulder Gun System</summary>
         https://streamable.com/hppdtv
-   </details>
 </details>
 </details>
     
