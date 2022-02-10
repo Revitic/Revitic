@@ -8,11 +8,8 @@ I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of
 
 <details>
 <summary>Heading1</summary> 
-    
 + <details>
     <summary>Heading1.1</summary>
-    + <details>
-        <summary>Heading1.1.1</summary>
-      </details>
+    
    </details>
 </details>
