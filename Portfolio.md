@@ -6,7 +6,7 @@ Hi there! I'm known as [Revitic](https://www.roblox.com/users/151869111/profile)
 
 I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of Github, [Rojo](https://github.com/rojo-rbx/rojo), and Visual Studio Code. I've worked on many projects in the past, including some of my own. I'm also familiar with OOP on Roblox (Object Oriented Programming). I've created multiple frameworks to speed up my development process on the projects I own.
 
-Note: Some of the showcases below are simply **practice games**, meaning some elements of the games shown lack quality due to them just being for practice and not planned to be published.
+Note: Some of the showcases below are simply **practice games**, meaning some elements of the games shown lack quality due to them just being for practice and not planned to be published. I've worked on and created **MANY** projects/games/systems which are not listed here, feel free to DM me to see some more!
 
 <details>
 <summary>Programming</summary>
@@ -21,3 +21,10 @@ Loading Screen/Game Intro: https://streamable.com/h9g73a
 Inventory/Backpack System: https://streamable.com/bkux25                                    
 Healing Orbs (For Fun): https://streamable.com/3kow0h                                       
 </details>
+
+![ContactBanner](https://user-images.githubusercontent.com/73036096/153448317-a195c0d6-e209-4870-912b-f0176c5527b0.png)
+
+You can contact me on the following platforms:
+**Discord** - Revitic#0001
+**DevForum** - Revitic
+**Twitter** - Revitic
