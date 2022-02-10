@@ -1,1 +1,3 @@
-![ProgrammingBanner](https://user-images.githubusercontent.com/73036096/153426505-2d8afff6-34b2-4c23-9a54-bbd33e93b162.png)
+![AboutMe](https://user-images.githubusercontent.com/73036096/153426660-46b4f953-dfff-4ce6-9101-169052dc7109.png)
+
+Hi there! I'm known as [Revitic](https://www.roblox.com/users/151869111/profile)
