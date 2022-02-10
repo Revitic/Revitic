@@ -24,7 +24,8 @@ Healing Orbs (For Fun): https://streamable.com/3kow0h
 
 ![ContactBanner](https://user-images.githubusercontent.com/73036096/153448317-a195c0d6-e209-4870-912b-f0176c5527b0.png)
 
-You can contact me on the following platforms:           
+You can contact me on the following platforms:        
+                       
 **Discord** - Revitic#0001                      
 **DevForum** - Revitic                                        
 **Twitter** - Revitic                               
