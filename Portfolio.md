@@ -6,13 +6,10 @@ Hi there! I'm known as [Revitic](https://www.roblox.com/users/151869111/profile)
 
 I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of Github, [Rojo](https://github.com/rojo-rbx/rojo), and Visual Studio Code. I've worked on many projects in the past, including some of my own. I'm also familiar with OOP on Roblox (Object Oriented Programming). I've created multiple frameworks to speed up my development process on the projects I own.
 
-<details closed>
-<summary> Practice Games </summary>
-<br>
-- <details closed>
-<summary> Practice Games </summary>
-<br>
+<details>
+<summary>Practice Games</summary>
 
-</details> 
-  
+<details>
+<summary>Number Game</summary>
+</details>
 </details>
