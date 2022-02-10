@@ -6,14 +6,20 @@ Hi there! I'm known as [Revitic](https://www.roblox.com/users/151869111/profile)
 
 I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of Github, [Rojo](https://github.com/rojo-rbx/rojo), and Visual Studio Code. I've worked on many projects in the past, including some of my own. I'm also familiar with OOP on Roblox (Object Oriented Programming). I've created multiple frameworks to speed up my development process on the projects I own.
 
-
+Note: Some of the showcases below are simply **practice games**, meaning some elements of the games shown lack quality due to them just being for practice and not planned to be published.
 
 <details>
-    <summary>Practice Games</summary>       
+    <summary>Programming</summary>       
     
 + <details>
     <summary>Number Game</summary>
         https://streamable.com/6nk2my
+   </details>
+</details>
+
++ <details>
+    <summary>Over-The-Shoulder Gun System</summary>
+        https://streamable.com/hppdtv
    </details>
 </details>
     
