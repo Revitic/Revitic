@@ -9,14 +9,11 @@ I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of
 
 
 <details>
-<summary>Practice Games</summary>
+    <summary>Practice Games</summary>       
     
-            
-    
-+ <details>
+    + <details>
     <summary>Number Game</summary>
-        
-        ![aaa](https://user-images.githubusercontent.com/73036096/153433231-3765ff79-c17c-45bc-9ac2-962eb499bb88.mp4)
-
-   </details>
+    https://streamable.com/6nk2my
+    </details>
+    
 </details>
