@@ -14,7 +14,8 @@ Over-The-Shoulder (OTS) Gun System: https://streamable.com/hppdtv
   
 Phone System: https://streamable.com/hkzh8e            
 Interaction System: https://streamable.com/5clal5               
-Elevator System: https://streamable.com/r760zr          
+Elevator System: https://streamable.com/r760zr           
+Radio System: https://streamable.com/1u3qof                 
 Banking Panel: https://streamable.com/fe9oze                                  
 Loading Screen/Game Intro: https://streamable.com/h9g73a                                          
 Inventory/Backpack System: https://streamable.com/bkux25                                    
