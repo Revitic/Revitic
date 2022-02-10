@@ -10,9 +10,9 @@ Note: Some of the showcases below are simply **practice games**, meaning some el
 
 <details>
 <summary>Programming</summary>
-Over-The-Shoulder (OTS) Gun System: https://streamable.com/hppdtv  
-  Phone System: https://streamable.com/hkzh8e
-Loading Screen/Game Intro: https://streamable.com/h9g73a               
+Over-The-Shoulder (OTS) Gun System: https://streamable.com/hppdtv         
+Phone System: https://streamable.com/hkzh8e           
+Loading Screen/Game Intro: https://streamable.com/h9g73a                
 Inventory/Backpack System: https://streamable.com/bkux25         
 Healing Orbs (For Fun): https://streamable.com/3kow0h          
 Phone System: https://streamable.com/hkzh8e
