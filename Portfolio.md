@@ -17,5 +17,4 @@ Banking Panel: https://streamable.com/fe9oze
 Loading Screen/Game Intro: https://streamable.com/h9g73a                                          
 Inventory/Backpack System: https://streamable.com/bkux25                                    
 Healing Orbs (For Fun): https://streamable.com/3kow0h                                       
-Loading Screen/Game Intro: https://streamable.com/h9g73a     
 </details>
