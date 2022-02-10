@@ -13,7 +13,8 @@ Note: Some of the showcases below are simply **practice games**, meaning some el
 Over-The-Shoulder (OTS) Gun System: https://streamable.com/hppdtv     
   
 Phone System: https://streamable.com/hkzh8e            
-Interaction System: https://streamable.com/5clal5                                
+Interaction System: https://streamable.com/5clal5               
+Elevator System: https://streamable.com/r760zr          
 Banking Panel: https://streamable.com/fe9oze                                  
 Loading Screen/Game Intro: https://streamable.com/h9g73a                                          
 Inventory/Backpack System: https://streamable.com/bkux25                                    
