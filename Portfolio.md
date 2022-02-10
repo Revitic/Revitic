@@ -11,4 +11,5 @@ Note: Some of the showcases below are simply **practice games**, meaning some el
 <details>
 <summary>Systems</summary>
 Over-The-Shoulder (OTS) Gun System: https://streamable.com/hppdtv
+Loading Screen/Game Intro: https://streamable.com/h9g73a
 </details>
