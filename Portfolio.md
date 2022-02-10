@@ -10,7 +10,7 @@ Note: Some of the showcases below are simply **practice games**, meaning some el
 
 <details>
     <summary>Programming</summary>       
-+ <details>
++<details>
     <summary>Number Game</summary>
         https://streamable.com/6nk2my
 </details>
