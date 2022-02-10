@@ -13,9 +13,7 @@ I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of
     
 + <details>
     <summary>Number Game</summary>
-
         https://streamable.com/6nk2my
-
    </details>
 </details>
     
