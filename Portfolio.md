@@ -10,6 +10,6 @@ I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of
 <summary>Practice Games</summary>
 
 <details>
-<summary>Number Game</summary>
+- <summary>Number Game</summary>
 </details>
 </details>
