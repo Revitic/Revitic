@@ -10,7 +10,7 @@ I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of
 <summary> Practice Games </summary>
 <br>
 <details closed>
-<summary> Practice Games </summary>
+<summary> - Practice Games </summary>
 <br>
 
 </details> 
