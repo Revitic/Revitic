@@ -12,11 +12,8 @@ I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of
 some text
 + <details>
     <summary>Heading1.1</summary>
-
-    some more text
     + <details>
         <summary>Heading1.1.1</summary>
-        even more text
       </details>
    </details>
 </details>
