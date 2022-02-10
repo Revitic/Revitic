@@ -15,12 +15,13 @@ Note: Some of the showcases below are simply **practice games**, meaning some el
     <summary>Number Game</summary>
         https://streamable.com/6nk2my
    </details>
-</details>
-
-+ <details>
+    
+    + <details>
     <summary>Over-The-Shoulder Gun System</summary>
         https://streamable.com/hppdtv
    </details>
+</details>
+
 </details>
     
 </details>
