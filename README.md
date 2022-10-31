@@ -8,8 +8,6 @@ I'm a programmer who is fluent in Lua and JavaScript. I'm an experienced user of
 
 Note: Some of the showcases below are simply **practice games**, meaning some elements of the games shown lack quality due to them just being for practice and not planned to be published. I've worked on and created **MANY** projects/games/systems which are not listed here, feel free to DM me to see some more!
 
-<details>
-<summary>Programming</summary>
 Death Screen: https://streamable.com/ki2ank     <br>                
 Mining System: https://streamable.com/f66d1d        <br>                            
 SCP-914: https://streamable.com/exva69             <br>               
@@ -21,7 +19,6 @@ Phone System: https://streamable.com/hkzh8e                       <br>
 Interaction System: https://streamable.com/5clal5                <br>                     
 Elevator System: https://streamable.com/r760zr                   <br>                         
 Banking Panel: https://streamable.com/fe9oze                    <br>                                                                     
-</details>
 
 ![ContactBanner](https://user-images.githubusercontent.com/73036096/153448317-a195c0d6-e209-4870-912b-f0176c5527b0.png)
 
