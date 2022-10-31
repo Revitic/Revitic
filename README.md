@@ -10,17 +10,17 @@ Note: Some of the showcases below are simply **practice games**, meaning some el
 
 <details>
 <summary>Programming</summary>
-Death Screen: https://streamable.com/ki2ank     \n                 
-Mining System: https://streamable.com/f66d1d                                    
-SCP-914: https://streamable.com/exva69                            
-Flight Booking UI: https://streamable.com/oot29m                            
-Body Camera System: https://streamable.com/qmvwrr                            
-Broom System Prototype: https://streamable.com/yn8gl5                            
-Over-The-Shoulder (OTS) Gun System: https://streamable.com/hppdtv                           
-Phone System: https://streamable.com/hkzh8e                                  
-Interaction System: https://streamable.com/5clal5                                     
-Elevator System: https://streamable.com/r760zr                                            
-Banking Panel: https://streamable.com/fe9oze                                                                                         
+Death Screen: https://streamable.com/ki2ank     <br>                
+Mining System: https://streamable.com/f66d1d        <br>                            
+SCP-914: https://streamable.com/exva69             <br>               
+Flight Booking UI: https://streamable.com/oot29m      <br>                      
+Body Camera System: https://streamable.com/qmvwrr       <br>                     
+Broom System Prototype: https://streamable.com/yn8gl5      <br>                      
+Over-The-Shoulder (OTS) Gun System: https://streamable.com/hppdtv    <br>                       
+Phone System: https://streamable.com/hkzh8e                       <br>           
+Interaction System: https://streamable.com/5clal5                <br>                     
+Elevator System: https://streamable.com/r760zr                   <br>                         
+Banking Panel: https://streamable.com/fe9oze                    <br>                                                                     
 </details>
 
 ![ContactBanner](https://user-images.githubusercontent.com/73036096/153448317-a195c0d6-e209-4870-912b-f0176c5527b0.png)
