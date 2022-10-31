@@ -10,7 +10,7 @@ Note: Some of the showcases below are simply **practice games**, meaning some el
 
 <details>
 <summary>Programming</summary>
-Death Screen: https://streamable.com/ki2ank                      
+Death Screen: https://streamable.com/ki2ank     \n                 
 Mining System: https://streamable.com/f66d1d                                    
 SCP-914: https://streamable.com/exva69                            
 Flight Booking UI: https://streamable.com/oot29m                            
