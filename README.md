@@ -27,6 +27,6 @@ Banking Panel: https://streamable.com/fe9oze                    <br>
 
 You can contact me on the following platforms:        
                        
-**Discord** - Revitic#0001                      
+**Discord** - Revitic#0002                      
 **DevForum** - Revitic                                        
 **Twitter** - Revitic                               
